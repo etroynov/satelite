@@ -7,5 +7,18 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "jsbook-e2e": {
+      "tags": []
+    },
+    "jsbook": {
+      "tags": ["jsbook"]
+    },
+    "jsmine-e2e": {
+      "tags": []
+    },
+    "jsmine": {
+      "tags": ["jsbook"]
+    }
+  }
 }
